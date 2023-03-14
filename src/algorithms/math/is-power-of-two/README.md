@@ -1,5 +1,8 @@
 # Is a power of two
 
+_Read this in other languages:_
+[_Українська_](README.uk-UA.md).
+
 Given a positive integer, write a function to find if it is
 a power of two or not.
 
