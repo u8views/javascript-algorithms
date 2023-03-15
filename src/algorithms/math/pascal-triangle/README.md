@@ -1,5 +1,9 @@
 # Pascal's Triangle
 
+
+_Read this in other languages:_
+[_Українська_](README.uk-UA.md).
+
 In mathematics, **Pascal's triangle** is a triangular array of 
 the [binomial coefficients](https://en.wikipedia.org/wiki/Binomial_coefficient).
 
