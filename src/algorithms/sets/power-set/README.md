@@ -1,5 +1,8 @@
 # Power Set
 
+_Read this in other languages:_
+[_Українська_](README.uk-UA.md).
+
 Power set of a set `S` is the set of all of the subsets of `S`, including the
 empty set and `S` itself. Power set of set `S` is denoted as `P(S)`.
 
