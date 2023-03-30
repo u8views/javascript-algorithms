@@ -1,5 +1,8 @@
 # Fisher–Yates shuffle
 
+_Read this in other languages:_
+[_Українська_](README.uk-UA.md).
+
 The Fisher–Yates shuffle is an algorithm for generating a random 
 permutation of a finite sequence—in plain terms, the algorithm 
 shuffles the sequence. The algorithm effectively puts all the 
